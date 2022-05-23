@@ -7,7 +7,8 @@
     "html",
     "yaml",
     "json",
-    "python"
+    "python",
+    "prisma"
   ],
   "languageserver": {
     "ccls": {

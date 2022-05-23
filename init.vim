@@ -12,7 +12,7 @@ let NERDTreeShowHidden=1
 " init sonokai theme
 colorscheme sonokai
 
-if (has("nvim"))
-    highlight Normal guibg=NONE ctermbg=NONE
-    highlight EndOfBuffer guibg=NONE ctermbg=NONE
-endif
+"if (has("nvim"))
+"    highlight Normal guibg=NONE ctermbg=NONE
+"    highlight EndOfBuffer guibg=NONE ctermbg=NONE
+"endif
