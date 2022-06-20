@@ -1,7 +1,7 @@
-source ~/.config/nvim/themes/sonokai.vim
+source ~/.config/nvim/utils/global-variables.vim
+source ~/.config/nvim/utils/airline-config.vim
+source ~/.config/nvim/utils/setup.vim
 source ~/.config/nvim/autocmd.vim
-source ~/.config/nvim/global-variables.vim
-source ~/.config/nvim/global.vim
 source ~/.config/nvim/maps.vim
 source ~/.config/nvim/plugins.vim
 source ~/.config/nvim/remaps.vim
@@ -10,7 +10,7 @@ source ~/.config/nvim/remaps.vim
 let NERDTreeShowHidden=1
 
 " init sonokai theme
-colorscheme sonokai
+colorscheme tokyonight
 
 "if (has("nvim"))
 "    highlight Normal guibg=NONE ctermbg=NONE

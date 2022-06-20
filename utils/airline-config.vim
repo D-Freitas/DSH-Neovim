@@ -12,4 +12,3 @@ let g:sonokai_current_word = 'bold'
 let g:airline_theme = 'sonokai'
 let g:airline#extensions#tabline#enabled = 1
 let g:airline_powerline_fonts = 1
-
