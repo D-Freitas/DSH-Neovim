@@ -7,3 +7,4 @@ function! HighlightWordUnderCursor()
 endfunction
 
 autocmd! CursorHold,CursorHoldI * call HighlightWordUnderCursor()
+autocmd! FileType go set ts=4 sw=4 sts=4
