@@ -3,19 +3,19 @@
 
 # Maps:
 - Nerd Tree
-  - `Ctrl + a` for toggle nerd tree
+  - <kbd>Ctrl</kbd> + <kbd>a</kbd> for toggle nerd tree
 <br><br>
 - Coc Snippets
-  - `Ctrl + l` for trigger snippet expand. (insert mode)
+  - <kbd>Ctrl</kbd> + <kbd>l</kbd> for trigger snippet expand. (insert mode)
 
-  - `Ctrl + j` for select text for visual placeholder of snippet. (visual mode and Select mode)
+  - <kbd>Ctrl</kbd> + <kbd>j</kbd> for select text for visual placeholder of snippet. (visual mode and Select mode)
 
-  - `Ctrl + j` for both expand and jump (make expand higher priority) (insert mode)
+  - <kbd>Ctrl</kbd> + <kbd>j</kbd> for both expand and jump (make expand higher priority) (insert mode)
 
-  - `\ + x (<leader> + x)` for convert visual selected code to snippet (visual mode)<br><br>
+  - <kbd>\\</kbd> + <kbd>x</kbd> or <kbd>\<leader\></kbd> + <kbd>x</kbd> for convert visual selected code to snippet (visual mode)<br><br>
 
 - Float Term
-  - `<F7>` for new term
-  - `<F8>` for prev term
-  - `<F9>` for next term
-  - `<F12>` for toggle term
+  - <kbd>F7</kbd> for new term
+  - <kbd>F8</kbd> for prev term
+  - <kbd>F9</kbd> for next term
+  - <kbd>F12</kbd> for toggle term
