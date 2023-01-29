@@ -9,6 +9,5 @@ source ~/.config/nvim/remaps.vim
 source ~/.config/nvim/colors.vim
 
 autocmd FileType go set ts=6 sw=6 sts=6
-
 let NERDTreeShowHidden=1
 colorscheme dracula
